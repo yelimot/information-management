@@ -1,1 +1,1 @@
-Bank management system is constructed from me and five of my groupmates. It is a database system that includes the user’s transaction, account processes and all the information of the consultants of the bank.
+Bank management system is a term project constructed from me and five of my groupmates. It is a database system that includes the user’s transaction, account processes and all the information of the consultants of the bank.
